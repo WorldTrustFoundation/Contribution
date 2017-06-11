@@ -6,6 +6,8 @@ Ce répertoire se destine à rendre visible (au mieux) les efforts de contributi
 
 # Contributeurs
 
+> La liste la plus aboutie des contributeurs (participant.e.s aux 3 workshops préparatoires, présent.e.s sur la Biennale de Design de Saint-Etienne) est sans-doute celle-ci. Une utopie serait d'expliciter les contributions de chacun dans ce dépot. 
+
 * [Nicolas Loubet](https://github.com/WorldTrustFoundation/Contribution/blob/master/nicolasloubet.md)
 
 
