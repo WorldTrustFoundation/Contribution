@@ -4,11 +4,12 @@
 
 Ce répertoire se destine à rendre visible (au mieux) les efforts de contributions au développement de l'exposition Fork The World. Il n'a aucunement pour intention de traçer les individus mais bien davantage de révéler de valoriser les efforts.  
 
-# Contributeurs
+## Biennale de Design (V1)
 
-> L'annuaire le plus abouti des contributeurs.trices (participant.e.s aux workshops, contributeurs.trices au corpus éditorial, présent.e.s sur la Biennale) est sans-doute [celui-ci](https://docs.google.com/spreadsheets/d/1fgYSM5S9jwzc-aZxwmKE_oYyEN8XyiTksSoLrckRAgQ/edit?usp=sharing). L'utopie serait de les rassembler dans ce dépot. 
+* [Co-commissaires](https://github.com/WorldTrustFoundation/Contribution/tree/master/biennale-design-2017/co-commissaires)
+* [Témoins (invités)](https://github.com/WorldTrustFoundation/Contribution/tree/master/biennale-design-2017/temoins-invites)
+* [Anim. d'ateliers](https://github.com/WorldTrustFoundation/Contribution/tree/master/biennale-design-2017/ateliers-contributifs)
 
-* [Nicolas Loubet](https://github.com/WorldTrustFoundation/Contribution/blob/master/nicolasloubet.md)
 
 
 
