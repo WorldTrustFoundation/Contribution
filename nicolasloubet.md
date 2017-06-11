@@ -1,4 +1,4 @@
-# Nicolas Loubet
+# [Nicolas Loubet](https://github.com/nicolasloubet)
 
 Nicolas est chercheur de formation (géosciences, communication), co-fondateur de plusieurs entreprises (Cellabz, Bluenod, Umaps) et contributeur de plusieurs communautés. Il est engagé dans la dyanmique [TILIOS](https://youtu.be/jrlZe71XsRU) depuis 2015.
 
