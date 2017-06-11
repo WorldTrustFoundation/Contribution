@@ -6,7 +6,7 @@ Ce répertoire se destine à rendre visible (au mieux) les efforts de contributi
 
 # Contributeurs
 
-> L'annuaire le plus abouti des contributeurs.trices (participant.e.s aux 3 workshops préparatoires, contributeurs.trices au corpus éditorial, présent.e.s sur la Biennale) est sans-doute [celui-ci](https://docs.google.com/spreadsheets/d/1fgYSM5S9jwzc-aZxwmKE_oYyEN8XyiTksSoLrckRAgQ/edit?usp=sharing). L'utopie serait de les rassembler dans ce dépot. 
+> L'annuaire le plus abouti des contributeurs.trices (participant.e.s aux workshops, contributeurs.trices au corpus éditorial, présent.e.s sur la Biennale) est sans-doute [celui-ci](https://docs.google.com/spreadsheets/d/1fgYSM5S9jwzc-aZxwmKE_oYyEN8XyiTksSoLrckRAgQ/edit?usp=sharing). L'utopie serait de les rassembler dans ce dépot. 
 
 * [Nicolas Loubet](https://github.com/WorldTrustFoundation/Contribution/blob/master/nicolasloubet.md)
 
