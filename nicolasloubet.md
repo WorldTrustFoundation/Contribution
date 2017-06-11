@@ -1,8 +1,6 @@
 # Nicolas Loubet
 
-### Mini biographie
-
-Nicolas est chercheur de formation (en géosciences, IPGP), co-fondateur de plusieurs entreprises (Cellabz, Bluenod, Umaps) et contributeur de plusieurs communautés depuis 2009. Il est engagé dans la dyanmique TILIOS depuis 2015.
+Nicolas est chercheur de formation (géosciences, communication), co-fondateur de plusieurs entreprises (Cellabz, Bluenod, Umaps) et contributeur de plusieurs communautés depuis 2009. Il est engagé dans la dyanmique [TILIOS](https://youtu.be/jrlZe71XsRU) depuis 2015.
 
 ### Rédaction & édition
 
